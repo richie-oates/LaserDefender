@@ -990,7 +990,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0d8ddf5684d61f8438bc851746351326, type: 2}
   - {fileID: 11400000, guid: 338a9be549df7e646ab8caece2cd68ce, type: 2}
   - {fileID: 11400000, guid: c54ddec6d4da5be4eb20e53383bd0fe6, type: 2}
-  timeBetweenWaves: 0
+  - {fileID: 11400000, guid: f645fb12871845d40a606f74c3175395, type: 2}
+  - {fileID: 11400000, guid: d975c56636df60b488469251619c0faa, type: 2}
+  timeBetweenWaves: 1
   isLooping: 1
 --- !u!4 &1957446365
 Transform:
